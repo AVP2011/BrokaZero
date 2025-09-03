@@ -1,0 +1,8 @@
+fastapi
+sqlmodel
+uvicorn[standard]
+asyncpg
+pydantic-settings
+passlib
+bcrypt
+python-jose[cryptography]
