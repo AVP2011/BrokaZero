@@ -1,0 +1,8 @@
+﻿node_modules/
+dist/
+build/
+.next/
+.env
+__pycache__/
+*.log
+target/
